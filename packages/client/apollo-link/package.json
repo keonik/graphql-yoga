@@ -49,8 +49,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@graphql-tools/executor-http": "0.0.4",
-    "@graphql-tools/executor-apollo-link": "0.0.3",
+    "@graphql-tools/executor-http": "0.0.6",
+    "@graphql-tools/executor-apollo-link": "0.0.5",
     "tslib": "^2.3.1"
   },
   "devDependencies": {
