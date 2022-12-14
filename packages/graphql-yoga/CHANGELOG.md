@@ -1,5 +1,11 @@
 # graphql-yoga
 
+## 3.1.2
+
+### Patch Changes
+
+- [#2206](https://github.com/dotansimha/graphql-yoga/pull/2206) [`26d780cd`](https://github.com/dotansimha/graphql-yoga/commit/26d780cd683b15d38880387081455311b57da4ec) Thanks [@ardatan](https://github.com/ardatan)! - Correct Mask Error Factory signature
+
 ## 3.1.1
 
 ### Patch Changes
